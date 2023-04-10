@@ -1,2 +1,2 @@
 # NutAPI
-A API that handles all payments headaches for you.
+A API that makes your clients payments flow as coconut oil.
